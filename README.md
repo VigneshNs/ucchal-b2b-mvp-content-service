@@ -1,2 +1,1 @@
-# b2c_mvp_content_service
-
+# ucchal-b2b-mvp-content-service
